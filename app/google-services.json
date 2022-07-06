@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "704472050711",
+    "project_id": "logreg-2114b",
+    "storage_bucket": "logreg-2114b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704472050711:android:32b9af24cf81a9c0afc052",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704472050711-rmb4pd6dlppbbs3caqcfrdt174pi54p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvj2SigzRs_pXehY1ejfKOI0sV26Kzr8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704472050711-rmb4pd6dlppbbs3caqcfrdt174pi54p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
